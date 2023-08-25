@@ -5,5 +5,5 @@
 
 See Wilson's [Gral spectrum](https://www.anaphoria.com/gralspectrum.pdf)
 and [Gral keyboard guide](https://www.anaphoria.com/gralkeyboard.pdf).
-Also see chapter 3 of 'Microtonality and the Tuning Systems of Erv Wilson'
+Also see chapter 3 of *Microtonality and the Tuning Systems of Erv Wilson*
 by T. Narushima.
